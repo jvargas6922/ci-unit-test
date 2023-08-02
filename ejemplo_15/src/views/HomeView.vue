@@ -19,6 +19,7 @@ export default {
     return {
       pokemon: "",
       img: "",
+      prueba: false,
     };
   },
   methods: {
